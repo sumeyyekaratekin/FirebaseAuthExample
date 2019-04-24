@@ -27,16 +27,6 @@
             android:layout_height="wrap_content" />
 
         <Button
-            android:id="@+id/loginBttn"
-            android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp"
-            android:background="#ffa500"
-            android:text="Giriş Yap"
-            android:textAllCaps="false"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <Button
             android:id="@+id/registerBttn"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
